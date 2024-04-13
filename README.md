@@ -1,0 +1,3 @@
+Este software fue creado por mí durante el segundo año del grado superior de Desarrollo de Aplicaciones Multiplataforma.
+Consiste en una tienda de reparación de hardware. Desde esta, puedes registrar todos los datos necesarios como las incidencias, los clientes... 
+Además puedes pedir piezas, ver estadísitcas y demás.
