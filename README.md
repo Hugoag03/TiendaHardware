@@ -1,3 +1,5 @@
-Este software fue creado por mí durante el segundo año del grado superior de Desarrollo de Aplicaciones Multiplataforma.
-Consiste en una tienda de reparación de hardware. Desde esta, puedes registrar todos los datos necesarios como las incidencias, los clientes... 
-Además puedes pedir piezas, ver estadísitcas y demás.
+Durante mi segundo año en el grado superior de Desarrollo de Aplicaciones Multiplataforma, desarrollé este software: una completa solución para una tienda de reparación de hardware. 
+Con esta aplicación, puedes registrar fácilmente todas las incidencias, datos de clientes y más. 
+Además, ofrece funciones adicionales como la capacidad de solicitar piezas, visualizar estadísticas y mucho más. 
+
+¡Descubre cómo simplifica la gestión de tu tienda y mejora la experiencia del usuario!
